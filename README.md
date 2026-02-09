@@ -19,7 +19,7 @@ Este repositório reúne **cursos gratuitos com certificado/badge** para cumprir
 * [v] **1. Databricks – Generative AI Fundamentals (1h)**
   [https://www.databricks.com/learn/training/generative-ai-fundamentals](https://www.databricks.com/learn/training/generative-ai-fundamentals)
 
-* [ ] **2. Databricks – Databricks Fundamentals (1h)**
+* [v] **2. Databricks – Databricks Fundamentals (1h)**
   [https://www.databricks.com/learn/training/databricks-fundamentals](https://www.databricks.com/learn/training/databricks-fundamentals)
 
 * [ ] **3. Databricks – Lakehouse Fundamentals (2h)**
